@@ -116,4 +116,3 @@ This project currently does not have a license specified.
 
 ---
 
-> Built by [mdgufranyt](https://github.com/mdgufranyt)
